@@ -1,4 +1,4 @@
-<p>
+<p align = "center">
 <img src= https://webmediums.com/media/webp_max_1600/1*wFWhssCU0m2Pej1uU79ykA*png.webp alt = "logo">
 </p>
 
