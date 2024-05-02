@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -5,57 +6,52 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/style.css" rel="stylesheet">
     </head>
-       <body>
-       <p align="center">
-       <img src =  https://webmediums.com/media/webp_max_1600/1*wFWhssCU0m2Pej1uU79ykA*png.webp alt = "logo">
-       </p>
-       <br>
-       <br>
-<h1 align = "middle"> GNU Assembly Studies</h1>
-  <table align ="center" border="1">
-        <tr> 
-            <td align="center">Number</td>
-            <td align="center">Name</td>
-            <td align="center">Description</td>
-        </tr>
-        </tr>
+    <body>
+        <p align="center">
+            <img src="https://webmediums.com/media/webp_max_1600/1*wFWhssCU0m2Pej1uU79ykA*png.webp" alt="logo">
+        </p>
+        <br>
+        <br>
+        <h1 align="middle">GNU Assembly Studies</h1>
+        <table align="center" border="1">
+            <tr> 
+                <td align="center">Number</td>
+                <td align="center">Name</td>
+                <td align="center">Description</td>
+            </tr>
             <tr align="middle"> 
-            <td text-aling="center">1</td>
-            <td>First code</td>
-            <td>Comments</td>
-        </tr>
-        </tr>
+                <td text-align="center">1</td>
+                <td>First code</td>
+                <td>Comments</td>
+            </tr>
             <tr align="middle"> 
-            <td text-aling="center">2</td>
-            <td>NOT Operator</td>
-            <td>None</td>
-        </tr>
-        </tr>
+                <td text-align="center">2</td>
+                <td>NOT Operator</td>
+                <td>None</td>
+            </tr>
             <tr align="middle"> 
-            <td text-aling="center">3</td>
-            <td>XOR Operator</td>
-            <td>None</td>
-        </tr>
-        </tr>
+                <td text-align="center">3</td>
+                <td>XOR Operator</td>
+                <td>None</td>
+            </tr>
             <tr align="middle"> 
-            <td text-aling="center">4</td>
-            <td>Using MOV</td>
-            <td>8,16,32,64bits</td>
-        </tr>
-    </table>
+                <td text-align="center">4</td>
+                <td>Using MOV</td>
+                <td>8, 16, 32, 64 bits</td>
+            </tr>
+        </table>
     </body>
 </html>
 
 - Homework1
-  - Números Primos
-    - (Arquivos do projeto)
+  - Prime Numbers
+    - (Project files)
 - Homework2
   - Accept IP
-    - (Arquivos do projeto)
+    - (Project files)
 - IPV4
-  - IPV4 (se não for um erro de digitação, é melhor corrigir para que os nomes coincidam)
-    - (Arquivos do projeto)
+  - IPV4 (if not a typo, it's better to correct to match names)
+    - (Project files)
 - assembly-studies
   - Assembly studies
-    - (Arquivos de estudo geral)
-
+    - (General study files)
